@@ -1,22 +1,22 @@
 {
-    "name": "PWA APP CATÁLOGOS",
-    "short_name": "CRM",
-    "start_url": "https://victorhugocamposvazquez.github.io/pwa-catalogo/",
-    "scope": "/pwa-catalogo/",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "theme_color": "#332f5d",
-    "icons": [
-      {
-        "src": "icon-192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "icon-512.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ]
-  }
-  
+  "name": "PWA APP CATÁLOGOS",
+  "short_name": "CRM",
+  "start_url": "/pwa-catalogo/",
+  "scope": "/pwa-catalogo/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#ffffff",
+  "theme_color": "#332f5d",
+  "icons": [
+    {
+      "src": "/pwa-catalogo/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-catalogo/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
